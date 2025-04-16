@@ -129,20 +129,3 @@ All prompts are recorded in `prompts.txt`
 
 ---
 
-## 📸 Demo (Optional)
-
-If you recorded a demo:
-
-👉 [Demo Video on YouTube](https://youtu.be/your-demo-link)
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## ✨ Author
-
-Made with ❤️ by [Your Name](https://github.com/your-username)
